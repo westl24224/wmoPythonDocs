@@ -7,7 +7,7 @@ mc = Minecraft.create()
 #make a line of wool color
 woolLine = [13, 12, 8, 7, 1]
 #thi sis will print a gird of wool block    
-woolGrid = [[5, 5, 5, 13, 13, 13, 5, 5, 0-,]
+woolGrid = [[5, 5, 5, 13, 13, 13, 5, 5, 0,]
             ]
 pos = mc.player.getTilePos()
 #this loop will place a line of wool
